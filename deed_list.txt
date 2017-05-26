@@ -1,0 +1,19 @@
+18
+1	call_to_my_parents	10
+2	conserve_natural_resources(electricity,water)	5
+3	donate_money_for_charity	9
+4	donate_toys_to_children	7
+5	donate_unneeded_books	5
+6	donate_unused_glasses	5
+7	donated_uneeded_clothes	5
+8	drop_item_to_recycle_properly	4
+9	gave_a_smile	2
+10	gave_compliment_to_someone	3
+11	help_to_distribute_cole_to_poor_families	9
+12	help_to_distribute_foodbasket_to_poor_families	9
+13	help_to_distribute_toys_to_children_from_poor_families	9
+14	woke_up_early	6
+15	visited_sick_person_in_hospital	8
+16	spent_time_with_younger_siblings	9
+17	helped_friend_to_understand_the_topic	6
+18	did_not_swear_when_I_wanted	7
